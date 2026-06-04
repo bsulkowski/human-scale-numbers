@@ -87,6 +87,8 @@ The recipe was developed by iterative experimentation using HSN values, then sca
 
 Milk (500 ml) and flour (400 g) sit precisely on HSN values. Eggs come in whole numbers — rounded to the nearest integer. Baking powder at 1.6 tsp is an HSN value; in practice 1.5 tsp works equally well — a reminder that HSN is a starting point, not a constraint.
 
+See also: [Kitchen measuring tools specification](tools.md)
+
 ## For the curious
 
 HSN is a human-oriented adaptation of the R10 Renard series (ISO 3, 1952) and is structurally similar to the E12 series used in electronics. Those systems were designed for manufacturing tolerances and inventory standardization. HSN is optimized for everyday human use: values are rounded to be memorable rather than mathematically exact, and the time variant has no equivalent in the Renard or E series.

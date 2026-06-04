@@ -87,6 +87,8 @@ Przepis powstał przez iteracyjne eksperymentowanie z wartościami HSN, a nastę
 
 Mleko (500 ml) i mąka (400 g) leżą dokładnie na wartościach HSN. Jajka są niepodzielne — zaokrąglone do najbliższej liczby całkowitej. Proszek do pieczenia 1,6 łyżeczki to wartość HSN; w praktyce 1,5 łyżeczki sprawdza się równie dobrze — przypomnienie, że HSN to punkt odniesienia, a nie sztywne ograniczenie.
 
+Zobacz też: [Specyfikacja miarek kuchennych](tools_PL.md)
+
 ## Dla zainteresowanych
 
 HSN jest zorientowaną na człowieka adaptacją serii R10 Renarda (ISO 3, 1952) i jest strukturalnie zbliżony do serii E12 stosowanej w elektronice. Tamte systemy były projektowane pod kątem tolerancji produkcyjnych i standaryzacji asortymentu. HSN jest zoptymalizowany pod codzienne ludzkie użycie: wartości są zaokrąglone tak, żeby były łatwe do zapamiętania, a nie matematycznie dokładne; wariant czasowy nie ma odpowiednika w seriach Renarda ani E.
