@@ -13,16 +13,16 @@ A set of six measuring spoons covering small quantities of dry and liquid ingred
 | Spoon | Volume | Reference |
 |-------|--------|-----------|
 | 1 | 5 ml | 1 teaspoon |
-| 2 | 6.4 ml | 1¼ teaspoon |
-| 3 | 8 ml | 1⅗ teaspoon |
+| 2 | 6.4 ml | ~1.25 teaspoon |
+| 3 | 8 ml | 1.6 teaspoon |
 | 4 | 16 ml | 1 tablespoon (HSN) |
-| 5 | 20 ml | 1¼ tablespoon |
-| 6 | 25 ml | 1⅗ tablespoon |
+| 5 | 20 ml | 1.25 tablespoon |
+| 6 | 25 ml | ~1.6 tablespoon |
 
 Notes:
 - The HSN tablespoon (16 ml) is defined independently of the traditional tablespoon (15 ml). The 1 ml difference is within the margin of error of typical kitchen measurement.
 - Values above 25 ml are easily obtained by using a spoon multiple times (e.g. 2 × 16 ml = 32 ml, 4 × 16 ml = 64 ml).
-- Values below 5 ml (e.g. 1.25 ml ≈ ¼ teaspoon) may be added as an optional extension.
+- Values below 5 ml (e.g. 1.25 ml ≈ 0.25 teaspoon) may be added as an optional extension.
 
 ### Design guidelines
 

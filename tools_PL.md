@@ -13,16 +13,16 @@ Zestaw sześciu miarek łyżkowych do odmierzania małych ilości składników s
 | Miarka | Objętość | Odniesienie |
 |--------|----------|-------------|
 | 1 | 5 ml | 1 łyżeczka |
-| 2 | 6,4 ml | 1¼ łyżeczki |
-| 3 | 8 ml | 1⅗ łyżeczki |
+| 2 | 6,4 ml | ~1,25 łyżeczki |
+| 3 | 8 ml | 1,6 łyżeczki |
 | 4 | 16 ml | 1 łyżka (HSN) |
-| 5 | 20 ml | 1¼ łyżki |
-| 6 | 25 ml | 1⅗ łyżki |
+| 5 | 20 ml | 1,25 łyżki |
+| 6 | 25 ml | ~1,6 łyżki |
 
 Uwagi:
 - Łyżka HSN (16 ml) jest zdefiniowana niezależnie od tradycyjnej łyżki (15 ml). Różnica 1 ml mieści się w marginesie błędu typowego pomiaru kuchennego.
 - Wartości powyżej 25 ml łatwo uzyskać wielokrotnym użyciem miarki (np. 2 × 16 ml = 32 ml, 4 × 16 ml = 64 ml).
-- Wartości poniżej 5 ml (np. 1,25 ml ≈ ¼ łyżeczki) można dodać jako opcjonalne rozszerzenie zestawu.
+- Wartości poniżej 5 ml (np. 1,25 ml ≈ 0,25 łyżeczki) można dodać jako opcjonalne rozszerzenie zestawu.
 
 ### Wytyczne projektowe
 
