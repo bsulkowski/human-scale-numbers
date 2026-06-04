@@ -37,7 +37,7 @@ Ponieważ ciąg jest geometryczny, typowe mnożenia stają się prostymi przesun
 Żeby podwoić dowolną wartość, przesuń ją o 3 kroki w górę. Żeby zmniejszyć trzykrotnie — przesuń o 5 kroków w dół. Ta sama logika działa w różnych dziedzinach:
 
 - **Gotowanie** — przeskaluj przepis dla jednej osoby lub całej rodziny
-- **Trening** — zwiększaj liczbę powtórzeń: 5 → 6,4 → 8, albo dystans biegu: 3,2 → 4 → 5 km
+- **Trening** — zwiększaj dystans biegu: 3,2 → 4 → 5 km
 - **Finanse** — ustalaj kieszonkowe, które rośnie sensownie wraz z wiekiem
 - **Czas** — dobieraj czasy gotowania lub parzenia z wariantu czasowego
 - **Modelowanie 3D** — wybieraj wymiary, które wzajemnie do siebie pasują

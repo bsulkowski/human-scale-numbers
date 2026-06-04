@@ -37,7 +37,7 @@ Because the sequence is geometric, common multiplications become simple step shi
 To double any quantity, shift 3 steps up. To scale down by a third, shift 5 steps down. The same logic applies across domains:
 
 - **Cooking** — scale a recipe for one person or a whole family
-- **Training** — progress from 5 to 6.4 to 8 reps, or from 3.2 to 4 to 5 km
+- **Training** — progress from 3.2 to 4 to 5 km
 - **Finances** — set pocket money that grows meaningfully with age
 - **Time** — choose brewing or cooking durations from the time variant
 - **3D modelling** — pick dimensions that relate to each other consistently
