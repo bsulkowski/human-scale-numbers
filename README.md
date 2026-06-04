@@ -2,7 +2,9 @@
 
 A small set of round numbers that cover the whole range of everyday measurements — and fit together so you can scale anything without recalculating.
 
-Instead of "a bit more flour", you use the next value up. Instead of multiplying a recipe by 1.6, you shift every ingredient by the same number of steps. The numbers are designed to be memorable, and the steps are designed to be meaningful.
+Instead of "a bit more", you use the next value up. Instead of multiplying by 1.6, you shift every value by the same number of steps. The numbers are designed to be memorable, and the steps are designed to be meaningful.
+
+HSN works wherever you measure, experiment, or scale: cooking, training, finances, time, 3D modelling, game design, and more.
 
 ## The sequence
 
@@ -32,7 +34,14 @@ Because the sequence is geometric, common multiplications become simple step shi
 | ×3 (or ÷3) | +5 (or −5) — approximate |
 | ×10 (or ÷10) | +10 (or −10) |
 
-To double a recipe, shift every ingredient 3 steps up. To scale it down to a single serving from a family portion, shift everything down by the same amount. No arithmetic needed.
+To double any quantity, shift 3 steps up. To scale down by a third, shift 5 steps down. The same logic applies across domains:
+
+- **Cooking** — scale a recipe for one person or a whole family
+- **Training** — progress from 5 to 6.4 to 8 reps, or from 3.2 to 4 to 5 km
+- **Finances** — set pocket money that grows meaningfully with age
+- **Time** — choose brewing or cooking durations from the time variant
+- **3D modelling** — pick dimensions that relate to each other consistently
+- **Game design** — build a numeric scale for mechanics (e.g. a power meter)
 
 ## Time variant
 

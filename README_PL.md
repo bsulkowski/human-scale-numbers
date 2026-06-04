@@ -2,7 +2,9 @@
 
 Mały zestaw okrągłych liczb, który pokrywa cały zakres codziennych pomiarów — i pasuje do siebie tak, że możesz skalować cokolwiek bez przeliczania.
 
-Zamiast "trochę więcej mąki" bierzesz następną wartość z ciągu. Zamiast mnożyć przepis przez 1,6 — przesuwasz każdy składnik o tę samą liczbę kroków. Liczby są dobrane tak, żeby je łatwo zapamiętać, a kroki — żeby różnice między nimi miały znaczenie.
+Zamiast "trochę więcej" bierzesz następną wartość z ciągu. Zamiast mnożyć przez 1,6 — przesuwasz każdą wartość o tę samą liczbę kroków. Liczby są dobrane tak, żeby je łatwo zapamiętać, a kroki — żeby różnice między nimi miały znaczenie.
+
+HSN działa wszędzie tam, gdzie mierzysz, eksperymentujesz lub skalujesz: gotowanie, trening, finanse, czas, modelowanie 3D, projektowanie gier i nie tylko.
 
 ## Ciąg
 
@@ -32,7 +34,14 @@ Ponieważ ciąg jest geometryczny, typowe mnożenia stają się prostymi przesun
 | ×3 (lub ÷3) | +5 (lub −5) — w przybliżeniu |
 | ×10 (lub ÷10) | +10 (lub −10) |
 
-Żeby podwoić przepis, przesuń każdy składnik o 3 kroki w górę. Żeby zmniejszyć porcję rodzinną do jednej osoby, przesuń wszystko w dół o tę samą liczbę kroków. Bez żadnych obliczeń.
+Żeby podwoić dowolną wartość, przesuń ją o 3 kroki w górę. Żeby zmniejszyć trzykrotnie — przesuń o 5 kroków w dół. Ta sama logika działa w różnych dziedzinach:
+
+- **Gotowanie** — przeskaluj przepis dla jednej osoby lub całej rodziny
+- **Trening** — zwiększaj liczbę powtórzeń: 5 → 6,4 → 8, albo dystans biegu: 3,2 → 4 → 5 km
+- **Finanse** — ustalaj kieszonkowe, które rośnie sensownie wraz z wiekiem
+- **Czas** — dobieraj czasy gotowania lub parzenia z wariantu czasowego
+- **Modelowanie 3D** — wybieraj wymiary, które wzajemnie do siebie pasują
+- **Projektowanie gier** — buduj skale liczbowe dla mechanik (np. wskaźnik siły)
 
 ## Wariant czasowy
 
