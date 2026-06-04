@@ -1,5 +1,7 @@
 # HSN — Human Scale Numbers
 
+*Also available in English: [README](README.md)*
+
 Mały zestaw okrągłych liczb, który pokrywa cały zakres codziennych pomiarów — i pasuje do siebie tak, że możesz skalować cokolwiek bez przeliczania.
 
 Zamiast "trochę więcej" bierzesz następną wartość z ciągu. Zamiast mnożyć przez 1,6 — przesuwasz każdą wartość o tę samą liczbę kroków. Liczby są dobrane tak, żeby je łatwo zapamiętać, a kroki — żeby różnice między nimi miały znaczenie.

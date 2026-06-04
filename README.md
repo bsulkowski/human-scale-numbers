@@ -1,5 +1,7 @@
 # HSN — Human Scale Numbers
 
+*Also available in Polish: [README](README_PL.md)*
+
 A small set of round numbers that cover the whole range of everyday measurements — and fit together so you can scale anything without recalculating.
 
 Instead of "a bit more", you use the next value up. Instead of multiplying by 1.6, you shift every value by the same number of steps. The numbers are designed to be memorable, and the steps are designed to be meaningful.
