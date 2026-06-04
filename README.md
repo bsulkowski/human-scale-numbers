@@ -72,7 +72,7 @@ The recipe was developed by iterative experimentation using HSN values, then sca
 | Milk | 500 ml |
 | Wheat flour | 400 g |
 | Baking powder | 1.6 tsp |
-| Rapeseed oil | 100 g |
+| Rapeseed oil | 100 ml |
 
 Milk (500 ml) and flour (400 g) sit precisely on HSN values. Eggs are discrete and rounded to the nearest integer. Baking powder at 1.6 tsp is an HSN value; in practice 1.5 tsp works equally well — a reminder that HSN is a starting point, not a constraint.
 

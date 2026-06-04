@@ -72,7 +72,7 @@ Przepis powstał przez iteracyjne eksperymentowanie z wartościami HSN, a nastę
 | Mleko | 500 ml |
 | Mąka pszenna | 400 g |
 | Proszek do pieczenia | 1,6 łyżeczki |
-| Olej rzepakowy | 100 g |
+| Olej rzepakowy | 100 ml |
 
 Mleko (500 ml) i mąka (400 g) leżą dokładnie na wartościach HSN. Jajka są dyskretne i zaokrąglone do najbliższej liczby całkowitej. Proszek do pieczenia 1,6 łyżeczki to wartość HSN; w praktyce 1,5 łyżeczki sprawdza się równie dobrze — przypomnienie, że HSN to punkt odniesienia, a nie sztywne ograniczenie.
 
