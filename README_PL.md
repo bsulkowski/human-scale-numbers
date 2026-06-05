@@ -111,6 +111,14 @@ HSN jest zorientowaną na człowieka adaptacją serii R10 Renarda (ISO 3, 1952) 
 
 Bazowy krok to 2^(1/3) ≈ 10^(1/10) — czyli około 26% między sąsiednimi wartościami. Sekwencja prędkości filmów ISO w krokach 1/3 EV (…25 — 32 — 40 — 50 — 64 — 80 — 100…) używa tego samego kroku i jest dobrze znanym, dziedzinowym przykładem tej samej idei.
 
+Jedyne miejsce, gdzie mnożenie przez 2 nie działa dokładnie, to 6,4 × 2 = 12,8, zaokrąglone w HSN do 12,5. To konsekwencja zbliżenia 2^10 ≈ 10^3 (1024 ≈ 1000): systemy binarny i dziesiętny prawie pokrywają się po 10 krokach — i to właśnie sprawia, że ciąg działa tak dobrze w obu. Błąd zaokrąglenia w tym jednym miejscu wynosi około 2,4%.
+
+Dobrze widać to w podciągu co 3 kroki (każda wartość ×2):
+
+| 1 | 2 | 4 | 8 | 16 | 32 | 64 | 125 | 250 | 500 | 1000 |
+
+Ciąg podąża dokładnie za potęgami dwójki aż do 64, po czym cicho przełącza się na świat dziesiętny przy 125 — w miejscu, gdzie 2^10 ≈ 10^3.
+
 ## Licencja
 
 CC0 — domena publiczna. Atrybucja niewymagana, choć mile widziana.

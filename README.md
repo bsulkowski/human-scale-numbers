@@ -111,6 +111,14 @@ HSN is a human-oriented adaptation of the R10 Renard series (ISO 3, 1952) and is
 
 The underlying step is 2^(1/3) ≈ 10^(1/10) — roughly 26% between adjacent values. The 1/3-stop ISO film speed sequence (…25, 32, 40, 50, 64, 80, 100…) uses the same step and is a well-known domain-specific instance of the same idea.
 
+The only place where doubling does not work exactly is 6.4 × 2 = 12.8, rounded to 12.5 in HSN. This is a consequence of the near-coincidence 2^10 ≈ 10^3 (1024 ≈ 1000): the binary and decimal systems almost align after 10 steps, which is precisely what makes the sequence work so well across both. The rounding error at this single point is about 2.4%.
+
+This is visible in the every-3-steps subsequence (each value ×2):
+
+| 1 | 2 | 4 | 8 | 16 | 32 | 64 | 125 | 250 | 500 | 1000 |
+
+The sequence follows powers of 2 exactly up to 64, then quietly switches to the decimal world at 125 — the point where 2^10 ≈ 10^3.
+
 ## License
 
 CC0 — public domain. No attribution required, though appreciated.
