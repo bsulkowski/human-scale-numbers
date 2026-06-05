@@ -26,6 +26,16 @@ HSN works wherever you measure, experiment, or scale: cooking, training, finance
 
 Then continues: 12.5, 16, 20, 25, 32, 40, 50, 64, 80, 100 …
 
+## How to remember the values
+
+The sequence is easy to memorize once you notice it consists of three simple interleaved doubling series:
+
+- **1 — 2 — 4 — 8** (×2 each time)
+- **1.25 — 2.5 — 5 — 10** (×2 each time)
+- **1.6 — 3.2 — 6.4** (×2 each time, also recognizable as 16 — 32 — 64)
+
+Each series doubles at every step; the three series are interleaved to form the full HSN sequence.
+
 ## Scaling without recalculating
 
 Because the sequence is geometric, common multiplications become simple step shifts:
@@ -72,6 +82,12 @@ For time, the sequence is adapted to hours and minutes:
 | 18 | 1:00:00 |
 
 Then continues in hours, with 1 day replacing the "25 h" step.
+
+Just as the main sequence consists of three interleaved doubling series, so does the time variant:
+
+- **1:00 — 2:00 — 4:00 — 8:00** (×2 each time)
+- **1:15 — 2:30 — 5:00 — 10:00** (×2 each time)
+- **1:36 — 3:12 — 6:24** (×2 each time, i.e. 1:30+0:06, 3:00+0:12, 6:00+0:24)
 
 ## Example: waffle recipe
 

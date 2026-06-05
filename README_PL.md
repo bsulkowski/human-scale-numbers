@@ -26,6 +26,16 @@ HSN działa wszędzie tam, gdzie mierzysz, eksperymentujesz lub skalujesz: gotow
 
 Dalej: 12,5 — 16 — 20 — 25 — 32 — 40 — 50 — 64 — 80 — 100 …
 
+## Jak zapamiętać wartości
+
+Ciąg łatwo zapamiętać, gdy zauważysz, że składa się z trzech prostych przeplatających się ciągów geometrycznych ze skokiem ×2:
+
+- **1 — 2 — 4 — 8**
+- **1,25 — 2,5 — 5 — 10**
+- **1,6 — 3,2 — 6,4** (czyli też 16 — 32 — 64)
+
+Każdy z nich podwaja się co krok; trzy ciągi przeplatają się, tworząc pełną sekwencję HSN.
+
 ## Skalowanie bez przeliczania
 
 Ponieważ ciąg jest geometryczny, typowe mnożenia stają się prostymi przesunięciami o kroki:
@@ -72,6 +82,12 @@ Dla czasu ciąg jest dostosowany do godzin i minut:
 | 18 | 1:00:00 |
 
 Dalej tak samo w godzinach, przy czym zamiast „25 h" pojawia się 1 doba.
+
+Podobnie jak ciąg podstawowy, wariant czasowy składa się z trzech przeplatających się ciągów ze skokiem ×2:
+
+- **1:00 — 2:00 — 4:00 — 8:00**
+- **1:15 — 2:30 — 5:00 — 10:00**
+- **1:36 — 3:12 — 6:24** (czyli 1:30+0:06, 3:00+0:12, 6:00+0:24)
 
 ## Przykład: przepis na gofry
 
