@@ -28,17 +28,15 @@ Then continues: 12.5, 16, 20, 25, 32, 40, 50, 64, 80, 100 …
 
 ## How to remember the values
 
-The sequence is easy to memorize once you notice it consists of three simple interleaved doubling series:
+The sequence is easy to memorize once you notice it consists of three simple series woven together, each doubling at every step:
 
 - **1 — 2 — 4 — 8** (×2 each time)
 - **1.25 — 2.5 — 5 — 10** (×2 each time)
 - **1.6 — 3.2 — 6.4** (×2 each time, also recognizable as 16 — 32 — 64)
 
-Each series doubles at every step; the three series are interleaved to form the full HSN sequence.
-
 ## Scaling without recalculating
 
-Because the sequence is geometric, common multiplications become simple step shifts:
+Common multiplications become simple step shifts:
 
 | Operation | Steps |
 |-----------|-------|
@@ -46,7 +44,9 @@ Because the sequence is geometric, common multiplications become simple step shi
 | ×3 (or ÷3) | +5 (or −5) — approximate |
 | ×10 (or ÷10) | +10 (or −10) |
 
-To double any quantity, shift 3 steps up. To scale down by a third, shift 5 steps down. The same logic applies across domains:
+To double any quantity, shift 3 steps up. To scale down by a third, shift 5 steps down.
+
+## Where to use HSN
 
 - **Cooking** — scale a recipe for one person or a whole family
 - **Training** — progress from 3.2 to 4 to 5 km
@@ -83,7 +83,7 @@ For time, the sequence is adapted to hours and minutes:
 
 Then continues in hours, with 1 day replacing the "25 h" step.
 
-Just as the main sequence consists of three interleaved doubling series, so does the time variant:
+The time variant follows the same pattern — three series woven together, each doubling at every step:
 
 - **1:00 — 2:00 — 4:00 — 8:00** (×2 each time)
 - **1:15 — 2:30 — 5:00 — 10:00** (×2 each time)
@@ -91,7 +91,7 @@ Just as the main sequence consists of three interleaved doubling series, so does
 
 ## Example: waffle recipe
 
-The recipe was developed by iterative experimentation using HSN values, then scaled up by 2 steps (≈ ×1.6) to serve a larger family — without recalculating any proportions:
+The recipe was developed by trial and error using HSN values, then scaled up by 2 steps (≈ ×1.6) to serve a larger family — without recalculating any proportions:
 
 | Ingredient | Amount |
 |------------|--------|

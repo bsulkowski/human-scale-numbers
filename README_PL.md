@@ -28,17 +28,15 @@ Dalej: 12,5 — 16 — 20 — 25 — 32 — 40 — 50 — 64 — 80 — 100 …
 
 ## Jak zapamiętać wartości
 
-Ciąg łatwo zapamiętać, gdy zauważysz, że składa się z trzech prostych przeplatających się ciągów geometrycznych ze skokiem ×2:
+Ciąg łatwo zapamiętać, gdy zauważysz, że składa się z trzech prostych ciągów, które się przeplatają — każdy podwaja się co krok:
 
 - **1 — 2 — 4 — 8**
 - **1,25 — 2,5 — 5 — 10**
 - **1,6 — 3,2 — 6,4** (czyli też 16 — 32 — 64)
 
-Każdy z nich podwaja się co krok; trzy ciągi przeplatają się, tworząc pełną sekwencję HSN.
-
 ## Skalowanie bez przeliczania
 
-Ponieważ ciąg jest geometryczny, typowe mnożenia stają się prostymi przesunięciami o kroki:
+Typowe mnożenia stają się prostymi przesunięciami o kroki:
 
 | Operacja | Kroki |
 |----------|-------|
@@ -46,7 +44,9 @@ Ponieważ ciąg jest geometryczny, typowe mnożenia stają się prostymi przesun
 | ×3 (lub ÷3) | +5 (lub −5) — w przybliżeniu |
 | ×10 (lub ÷10) | +10 (lub −10) |
 
-Żeby podwoić dowolną wartość, przesuń ją o 3 kroki w górę. Żeby zmniejszyć trzykrotnie — przesuń o 5 kroków w dół. Ta sama logika działa w różnych dziedzinach:
+Żeby podwoić dowolną wartość, przesuń ją o 3 kroki w górę. żeby podzielić przez 3 — przesuń o 5 kroków w dół.
+
+## Gdzie stosować HSN
 
 - **Gotowanie** — przeskaluj przepis dla jednej osoby lub całej rodziny
 - **Trening** — zwiększaj dystans biegu: 3,2 → 4 → 5 km
@@ -83,7 +83,7 @@ Dla czasu ciąg jest dostosowany do godzin i minut:
 
 Dalej tak samo w godzinach, przy czym zamiast „25 h" pojawia się 1 doba.
 
-Podobnie jak ciąg podstawowy, wariant czasowy składa się z trzech przeplatających się ciągów ze skokiem ×2:
+Wariant czasowy działa tak samo — trzy ciągi, które się przeplatają, każdy podwaja się co krok:
 
 - **1:00 — 2:00 — 4:00 — 8:00**
 - **1:15 — 2:30 — 5:00 — 10:00**
@@ -91,7 +91,7 @@ Podobnie jak ciąg podstawowy, wariant czasowy składa się z trzech przeplataj�
 
 ## Przykład: przepis na gofry
 
-Przepis powstał przez iteracyjne eksperymentowanie z wartościami HSN, a następnie został przeskalowany o 2 kroki w górę (≈ ×1,6), żeby starczyło dla całej rodziny — bez przeliczania żadnych proporcji:
+Przepis powstał metodą prób i błędów z wartościami HSN, a następnie został przeskalowany o 2 kroki w górę (≈ ×1,6), żeby starczyło dla całej rodziny — bez przeliczania żadnych proporcji:
 
 | Składnik | Ilość |
 |----------|-------|
